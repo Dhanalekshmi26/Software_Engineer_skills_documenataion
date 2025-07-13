@@ -1,4 +1,4 @@
-# ** 16 essential skills for software engineers, categorized into key technical and soft skill areas. ** #
+#  16 essential skills for software engineers, categorized into key technical and soft skill areas.  #
  ### Here's a clear summary ###
 
 
